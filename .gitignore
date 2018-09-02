@@ -10,7 +10,12 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Idea
+.idea
+*.iml
+
 # Package Files #
+/target/
 *.jar
 *.war
 *.nar
